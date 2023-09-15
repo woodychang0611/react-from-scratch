@@ -1,0 +1,6 @@
+/* ./src/index.css  */
+.centered-content {
+    /* Center text horizontally within the container */
+    text-align: center;
+    font-family: monospace;
+}
