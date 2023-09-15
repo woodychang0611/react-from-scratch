@@ -1,0 +1,20 @@
+{
+  "name": "react-from-scratch",
+  "version": "1.0.0",
+  "description": "Create a React Project From Scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodychang0611/react-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woodychang0611/react-from-scratch/issues"
+  },
+  "homepage": "https://github.com/woodychang0611/react-from-scratch#readme"
+}
