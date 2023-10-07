@@ -3,7 +3,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import logo from './image.svg';
 import './index.css'
-const root = ReactDOM.createRoot(document.getElementById('root'));
 
 function Index() {
   return (
@@ -16,8 +15,11 @@ function Index() {
   );
 }
 
-root.render(
-  <Index />
-);
+document.addEventListener('DOMContentLoaded', () => {
+  const root = ReactDOM.createRoot(document.getElementById('root'));
+  root.render(
+    <Index />
+  );
+});
 
 export default Index;
